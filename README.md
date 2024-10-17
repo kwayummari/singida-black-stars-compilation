@@ -1,1 +1,0 @@
-# singida-black-stars-compilation
