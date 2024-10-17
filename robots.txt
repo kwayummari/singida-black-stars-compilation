@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://singidablackstars.com
+
+# Sitemaps
+Sitemap: https://singidablackstars.com/sitemap.xml
